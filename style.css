@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+header ul li {
+display: inline-block;
+margin-left: 300px;
+border: solid;
+padding: 25px;
+background-color: lightblue;
+}
+p {
+    padding: 50px;
+    border: solid;
+    margin-top: 50px;
+    background-color: lightblue;
+}
+footer{
+    padding: 20px;
+    border: solid;
+    margin-top: 50px;
+    background-color: lightblue;
+    margin-left: 700px;
+    width: 150px;
+text-align: center;
+}
